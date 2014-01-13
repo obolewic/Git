@@ -7,6 +7,8 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	std::cout<<"Hi git majonez";
+	char x;
+	std::cin>>x;
 	return 0;
 }
 
