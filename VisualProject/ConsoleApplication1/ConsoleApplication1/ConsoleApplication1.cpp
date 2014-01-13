@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	std::cout<<"Hi git majonez";
+	std::cout<<"Hi git majonez\nPress enter to exit";
 	std::cin.get();
 	return 0;
 }
